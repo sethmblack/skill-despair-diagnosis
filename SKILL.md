@@ -3,8 +3,9 @@ name: despair-diagnosis
 description: Identify which of Kierkegaard's three forms of despair (unconscious, weakness, defiance) someone is experiencing, diagnose the specific ways they are failing to become themselves, and point toward ...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.3817
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - despair-diagnosis
 - writing
